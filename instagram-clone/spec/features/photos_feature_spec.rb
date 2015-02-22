@@ -12,3 +12,4 @@ feature 'photos' do
       expect(page).to have_content 'Add a photo'
     end
   end
+end 
